@@ -49,7 +49,7 @@ I’ve named the application pool *AvatoolWebService*.
 
 <h6 align="center">
 
-  <img src="img/iis-application-pool-633x187.png" width="633">
+  <img src="resource/image/readme/iis-application-pool-633x187.png" width="633">
   <br>
   What my Application Pools setup looks like
   <br>
@@ -69,7 +69,7 @@ From within IIS:
 
 <h6 align="center">
 
-  <img src="img/iis-add-website-362x414.png" width="362">
+  <img src="resource/image/readme/iis-add-website-362x414.png" width="362">
   <br>
   Adding a new website
   <br>
@@ -84,7 +84,7 @@ Once that’s done, your IIS roles should look like this:
 
 <h6 align="center">
 
-  <img src="img/iis-roles-295x650.png" width="295">
+  <img src="resource/image/readme/iis-roles-295x650.png" width="295">
   <br>
   Probably?
   <br>
@@ -109,7 +109,7 @@ From within IIS:
 
 <h6 align="center">
 
-  <img src="img/iis-directory-browsing-633x204.png" width="633">
+  <img src="resource/image/readme/iis-directory-browsing-633x204.png" width="633">
   <br>
   Enabling directory browsing
   <br>
@@ -122,7 +122,7 @@ Your AvatoolWebService site should look like this:
 
 <h6 align="center">
 
-  <img src="img/iis-site-home-633x206.png" width="633">
+  <img src="resource/image/readme/iis-site-home-633x206.png" width="633">
   <br>
   Maybe?
   <br>
